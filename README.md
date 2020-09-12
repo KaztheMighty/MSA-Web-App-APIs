@@ -1,6 +1,6 @@
 # MSA-Web-App-APIs
 
-##Target Persona:
+## Target Persona:
 
 * Judy, a single mother who runs a business in Penrith managing and selling flowers. She has had quite a lot of trouble since Covid-19, with her sales being less than ideal for the past 6 months. Her idea to improve this was to create a mobile app that would encourage customers to order their flowers online and specify a time to visit the store and pick up those flowers. 
 
@@ -9,7 +9,7 @@
 * This inconsistency in sales lead her to create this app, allowing potential customers to order on their phones and specify a time and date that they'll come in store to pick it up so she can best manage her time to prepare these flower orders in advance. All of these online orders will be paid for through the App, so Judy will have less time worrying about the purchasing process and more time focusing on doing what needs to be done; creating boquets for customers. 
 
 
-##Extensibility of the App:
+## Extensibility of the App:
 
 * Future scalability is quite simple. Judy could implement a location reminder, allowing customers to see just how far away they are from her store. This point will only become more relevant as time passes, since Judy has had previous thoughts of opening up another store in a different suburb. 
 
